@@ -1,0 +1,62 @@
+
+.section-search input
+{
+	padding: 5px !important;
+	font-size: 18px !important;
+	width: 90% !important;
+	border: #f4f4f4 3px solid !important;
+}
+.brand-logo img
+{
+	width: 150px;
+	height: 62px;
+}
+#gallery img
+{
+	width: 300px;
+	height: 150px;
+	margin-top: 20px;
+}
+.flow-text
+{
+	font-size: 14px !important;
+}
+h2
+{
+	font-size: 80px !important;
+
+}
+
+#items
+{
+	font-size: 20px !important;
+}
+
+.white-text
+{
+	margin-right: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+  #gallery img
+  {
+    width: 100%;
+    height: auto;
+  }
+}
+@media only screen and (max-width: 600px)
+{
+	.brand-logo img
+	{
+	width: 150px;
+	height: 55px;				
+	}
+}
+@media only screen and (max-width: 600px)
+{
+	iframe
+	{
+	width: 100%;
+	height: 400px;
+	}
+}
